@@ -1,0 +1,11 @@
+model,WikiSem500
+data_examples/fasttxt_model_31.vec,0.3657187993680885
+data_examples/wv2_model_11.vec,0.375
+data_examples/glove_5_50_5.txt,0.48984375
+data_examples/ft_vectors_0_5_50_5.txt,0.4765625
+data_examples/fasttxt_model_31.vec,0.3657187993680885
+data_examples/wv2_model_11.vec,0.375
+data_examples/glove_5_50_5.txt,0.48984375
+data_examples/fasttxt_model_31.vec,0.3657187993680885
+data_examples/wv2_model_11.vec,0.375
+data_examples/glove_5_50_5.txt,0.48984375

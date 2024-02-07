@@ -2,7 +2,7 @@
 python setup.py sdist bdist_wheel
 twine check dist/*         
 twine upload dist/*
-## quando provi ad installarlo da test.pypi aggiungi --extra-index-url altrimenti non scarica le dependances
+## when installing from test.pypi add --extra-index-url for dependances
+Example:
 pip install -i https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ TaxoVec1==1.8.0
 API token test.pypi (user __token__):
-pypi-AgENdGVzdC5weXBpLm9yZwIkNjEzM2U2NTMtMmNlYy00M2JhLWIxYTQtZjA2OGQ0YjhiY2FlAAIqWzMsIjZlZGU5OWE5LWM2MzAtNDhlOS1hNzk0LWZmM2U1NmJkZDZmMCJdAAAGINRQ-WchcKHNpQHhjSNuCBBxvHQlWwfQlTby29lTJgMW
